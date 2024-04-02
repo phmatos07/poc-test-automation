@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.section-01 {
+  width: 100%;
+  padding: 20px;
+  background-color: #008ba7;
+}
+
+.section-01 h1 {
+  color: #ffffff;
+  font-size: 24px;
+}
+
+.section-01 p {
+  color: #ffffff;
+}
+
+.section-02 {
+  width: 100%;
+  padding: 20px;
+  background-color: #acacac;
+}
+
+.section-02 h1 {
+  color: #ffffff;
+  font-size: 24px;
+}
+
+.section-02 p {
+  color: #ffffff;
+}
